@@ -8,6 +8,9 @@ const Manager = require('./lib/Manager');
 const Engineer = require('./lib/Engineer');
 const Intern = require('./lib/Intern'); 
 
+//generate html
+const generateHTML = require('./src/generateHTML')
+
 // team array
 const teamArray = []; 
 
@@ -276,7 +279,7 @@ const writeFile = html => {
             return;
         // when the profile has been created 
         } else {
-            console.log("Your team profile has been successfully created! Please check out the index.html")
+            console.log("Your team profile has been successfully created! Check inside the 'dist' folder for the newly created index.html")
         }
     })
 }; 

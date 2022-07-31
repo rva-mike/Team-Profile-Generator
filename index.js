@@ -191,8 +191,8 @@ const internInput = () => {
 
 
 const engineerInput = () => {
-    //questions for intern
-
+    
+    //questions for engineer
     return inquirer.prompt ([
          {
             type: 'input',

@@ -15,10 +15,10 @@
   * [Screenshot](#screenshot)
 
   ## Installation
-  Git Clone this repository.
+  Make sure you have Node.js installed. Git Clone this repository. Navigate into the root folder. Enter 'npm i' in your command line.
 
   ## Usage
-  After cloning this repository, navigate to the root folder in your command line. Then enter 'node index' to start the application. Answer the following prompts and continue to add team members as necessary. When the user answers 'n' when prompted to add more team members, the application will end and and the message "Your team profile has been successfully created! Check inside the 'dist' folder for the newly created index.html"
+  After cloning this repository, navigate to the root folder in your command line. Make sure you enter 'npm i' into your command line. Then enter 'node index' to start the application. Answer the following prompts and continue to add team members as necessary. When the user answers 'n' when prompted to add more team members, the application will end and and the message "Your team profile has been successfully created! Check inside the 'dist' folder for the newly created index.html" will appear.
   
   #### Walk-through Video Links
   

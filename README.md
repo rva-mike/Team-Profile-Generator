@@ -12,6 +12,7 @@
   * [Usage](#usage)
   * [License](#license)
   * [Questions](#questions)
+  * [Screenshot](#screenshot)
 
   ## Installation
   Git Clone this repository.
@@ -39,4 +40,9 @@
   Email: mikelevydesign@gmail.com
 
   GitHub Profile: https://github.com/rva-mike
+
+  ## Screenshot
+  
+  ![Screenshot (38)](https://user-images.githubusercontent.com/105617274/182691396-183022d8-abb9-496b-82aa-b22ae80cc004.png)
+
 

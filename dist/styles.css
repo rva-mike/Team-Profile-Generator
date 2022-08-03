@@ -1,0 +1,19 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#navbar-text {
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+.card {
+    -webkit-box-shadow: 5px 5px 12px -9px #000000; 
+box-shadow: 5px 5px 12px -9px #000000;
+}
+
+/* nav {
+    -webkit-box-shadow: 5px 5px 12px -9px #000000; 
+box-shadow: 5px 5px 12px -9px #000000;
+} */

@@ -18,6 +18,14 @@
 
   ## Usage
   After cloning this repository, navigate to the root folder in your command line. Then enter 'node index' to start the application. Answer the following prompts and continue to add team members as necessary. When the user answers 'n' when prompted to add more team members, the application will end and and the message "Your team profile has been successfully created! Check inside the 'dist' folder for the newly created index.html"
+  
+  #### Walk-through Video Links
+  
+  Walk-through usage
+  https://drive.google.com/file/d/17FJbc68WeY2KRMey-qVWv_pXNQuXpoho/view
+  
+  Jest Test Passing
+  https://drive.google.com/file/d/17FJbc68WeY2KRMey-qVWv_pXNQuXpoho/view
 
   ## License
   MIT
